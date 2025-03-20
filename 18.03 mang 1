@@ -66,16 +66,16 @@ level_score = 300  # Starting score for level 1
 
 # Death messages for each level
 death_messages = [
-    "Ты поймал на крючок сам себя.",
-    "Ты закинул удочку, но подскользнулся и умер.",
-    "Птица разбила тебе голову.",
-    "Ты попробовал рыбу и отравился.",
-    "Городская стража забрала тебя и казнила.",
-    "Тебя настигла холера.",
-    "Рыба утащила тебя в воду.",
-    "Из водоёма выпрыгнул крокодил.",
-    "Конкуренты устранили тебя.",
-    "Ты подавился."
+    "Sa püüdsid end ise konksu otsa.",  
+"Sa heitsid õnge välja, kuid libisesid ja surid.",  
+"Lind lõi su pead sisse.",  
+"Sa proovisid kala ja saad mürgistusse.",  
+"Linnavalve võttis su kinni ja hukkas.",  
+"Su tabas koolera.",  
+"Kala tõmbas su vette.",  
+"Veekogust hüppas välja krokodill.",  
+"Konkurendid elimineerisid su.",  
+"Sa läksid toiduga kinni."
 ]
 
 def draw_text(text, x, y, color=(0, 0, 0)):
