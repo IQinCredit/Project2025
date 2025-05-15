@@ -390,6 +390,3 @@ if __name__ == "__main__":
         print(f"An error occurred: {e}")
     finally:
         pygame.quit()
-
-PEENIS
-
